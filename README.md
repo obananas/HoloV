@@ -11,7 +11,7 @@
 [![License](https://img.shields.io/badge/License-Apache2.0-yellow)](https://github.com/PKU-YuanGroup/Chat-UniVi/blob/main/LICENSE)  
 </h5>
 
-![HoloV](assets/framework1.pdf) 
+![HoloV](assets/framework.png) 
 
 
 ## 📣 News
