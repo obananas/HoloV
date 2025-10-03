@@ -12,3 +12,9 @@
 </h5>
 
 ![HoloV](assets/framework1.pdf) 
+
+
+## 📣 News
+* **[2025/09/18]**  🎉🎉🎉 HoloV has been accepted by NeurIPS 2025 main!
+* **[2025/10/01]**  🚀 Code will be released in October.
+
