@@ -1,4 +1,4 @@
-<h2 align="center">
+<h2 align="left">
 <a href="https://arxiv.org/abs/2410.03577">Don't Just Chase “Highlighted Tokens” in MLLMs: Revisiting Visual Holistic Context Retention
 </a></h2>
     
