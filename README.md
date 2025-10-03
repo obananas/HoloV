@@ -11,10 +11,10 @@
 [![License](https://img.shields.io/badge/License-Apache2.0-yellow)](https://github.com/PKU-YuanGroup/Chat-UniVi/blob/main/LICENSE)  
 </h5>
 
-![HoloV](assets/framework.png) 
-
-
 ## 📣 News
 * **[2025/09/18]**  🎉🎉🎉 HoloV has been accepted by NeurIPS 2025 main!
 * **[2025/10/01]**  🚀 Code will be released in October 2025.
 
+
+
+![HoloV](assets/framework.png) 
