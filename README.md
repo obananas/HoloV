@@ -1,5 +1,5 @@
 <h2 align="left">
-<a href="https://arxiv.org/abs/2410.03577">Don't Just Chase “Highlighted Tokens” in MLLMs: Revisiting Visual Holistic Context Retention
+<a href="https://arxiv.org/abs/2510.02912">Don't Just Chase “Highlighted Tokens” in MLLMs: Revisiting Visual Holistic Context Retention
 </a></h2>
     
 <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest update.</h5>
