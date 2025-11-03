@@ -13,7 +13,7 @@
 
 ## 📣 News
 * **[2025/09/18]**  🎉🎉🎉 HoloV has been accepted by NeurIPS 2025 main!
-* **[2025/10/01]**  🚀 Code will be released in October 2025.
+* **[2025/10/01]**  🚀 Code will be released in 2025.11.5.
 
 
 
