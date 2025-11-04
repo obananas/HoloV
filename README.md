@@ -12,8 +12,8 @@
 </h5>
 
 ## 📣 News
-* **[2025/09/18]**  🎉🎉🎉 HoloV has been accepted by NeurIPS 2025 main!
-* **[2025/10/01]**  🚀 Code will be released in 2025.11.5.
+* **[2025/09/18]**  🎉🎉🎉 HoloV has been accepted by NeurIPS 2025 main (score:5544)!
+* **[2025/11/04]**  🚀 Code has be released.
 
 
 
