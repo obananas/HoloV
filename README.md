@@ -17,4 +17,4 @@
 
 
 
-![HoloV](assets/framework.png) 
+![HoloV](assets/poster.png) 
