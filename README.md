@@ -19,5 +19,4 @@
 ![HoloV](assets/poster.png) 
 
 
-**Once you have set up the llava and qwenvl environments, simply replace the corresponding files we provided.!!!!!
-**
+**Once you have set up the llava and qwenvl environments, simply replace the corresponding files we provided.!!!!!**
