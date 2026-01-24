@@ -15,6 +15,6 @@
 * **[2025/09/18]**  🎉🎉🎉 HoloV has been accepted by NeurIPS 2025 main (score:5544)!
 * **[2025/11/04]**  🚀 Code has be released.
 
-
+Once you have set up the llava and qwenvl environments, simply replace the corresponding files we provided.!!!!!
 
 ![HoloV](assets/poster.png) 
